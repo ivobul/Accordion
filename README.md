@@ -1,1 +1,1 @@
-# Accordion
+# Accordion (collapsible content)
